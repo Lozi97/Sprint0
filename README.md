@@ -1,4 +1,4 @@
-Project Title: Sprint0
+##Project Title: Sprint0
 
 This repository has 3 files.
 
@@ -12,14 +12,12 @@ c) Third file contains section 5.1 Distributed Git - Distributed Workflows.
 
 and has file for all my commands
 
-Author:
+##Author:
 
-First Name : Ahmed
-Last Name : Ellouzy
-ID : 37-16116
+- Ahmed Ellouzy 37-16116
 
 
-The name of the book : book Chacon, Scott, and
+##The name of the book : book Chacon, Scott, and
 Ben Straub. Pro Git. Apress, 2014.
 
 
